@@ -1584,6 +1584,7 @@ _Libraries that implement messaging systems._
 - [nsq-event-bus](https://github.com/rafaeljesus/nsq-event-bus) - A tiny wrapper around NSQ topic and channel.
 - [oplog](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
 - [pubsub](https://github.com/tuxychandru/pubsub) - Simple pubsub package for go.
+- [pulsar](https://github.com/apache/pulsar-client-go) - A Go client library for [Apache Pulsar](https://github.com/apache/pulsar).
 - [Quamina](https://github.com/timbray/quamina) - Fast pattern-matching for filtering messages and events.
 - [rabbus](https://github.com/rafaeljesus/rabbus) - A tiny wrapper over amqp exchanges and queues.
 - [rabtap](https://github.com/jandelgado/rabtap) - RabbitMQ swiss army knife cli app.
